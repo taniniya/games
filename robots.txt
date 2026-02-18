@@ -1,5 +1,4 @@
 ﻿User-agent: *
 Allow: /
 
-# 公開URLに合わせてドメインを変更してください
-Sitemap: https://your-domain.example/sitemap.xml
+Sitemap: https://taniniya.github.io/games/sitemap.xml
